@@ -1,4 +1,5 @@
-# Recipe Finder Application `https://ashwanirecipeapp.netlify.app`
+# Recipe Finder Application 
+### Live URL => `https://ashwanirecipeapp.netlify.app`
 
 
 The Recipe Finder Application is a versatile platform that allows users to search for recipes based on specific keywords. Whether you're looking for a quick dinner recipe or planning a special meal, this app makes it easy to find the perfect recipe. You can use the web version built with React JS or the mobile version developed using React Native.
